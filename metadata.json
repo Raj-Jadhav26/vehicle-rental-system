@@ -1,0 +1,6 @@
+{
+  "name": "Cloud-Based Vehicle Rental Management System",
+  "description": "Full-stack vehicle rental system for college mini-projects with React, Spring Boot, MySQL, and AWS deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
